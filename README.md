@@ -16,3 +16,16 @@ with fluctuating salt concentrations over yeast cells. Every few minutes,
 we recorded photographs of the yeast. Though not a required part of the 
 lab, the ultimate goal—which I have realized through this side project—was to analyze time-dependent trends of Hog1 localization in the nucleus 
 via GFP/RFP colocalization seen in these photographs.
+
+As an example, this is one frame of microscopy data. 
+
+<img src='https://github.com/katie-sp/yeast/blob/main/raw.png' width=500vw>
+
+Though contrast is low, my code identifies most of the individual yeast cells, each individually colored for visualization purposes below.
+
+<img src='https://github.com/katie-sp/yeast/blob/main/clusters.png' width=500vw>
+
+Finally, my code analyzes pixel values of each yeast identified over time and plots the variance of the pixel values at each frame, a good approximation for localization of GFP signal over time.
+
+<img src='https://github.com/katie-sp/yeast/blob/main/plot.png' width=500vw>
+
