@@ -1,5 +1,4 @@
-# Characterizing Yeast Osmotic Shock Response with Fluorescence 
-Microscopy 
+# Characterizing Yeast Osmotic Shock Response with Fluorescence Microscopy 
 
 I worked on this project for fun, as a way to quantitatively analyze 20.309 osmotic shock lab data from when I took the class in Spring 
 2024. The lab, based on the <a 
