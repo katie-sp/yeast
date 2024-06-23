@@ -2,7 +2,7 @@
 
 I worked on this project for fun, as a way to quantitatively analyze 20.309 osmotic shock lab data from when I took the class in Spring 
 2024. The lab, based on the <a 
-href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2916730/" target="_blank">paper</a> 
+href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2916730/">paper</a> 
 <em>The Frequency 
 Dependence of Osmo-adaptation in Saccharomyces cerevisiae</em> by Mettetal 
 et al., unites control theory with biology to understand how yeast respond 
